@@ -1,0 +1,10 @@
+0 - Afternoon
+1 - Good
+2 - Happy
+3 - Hello
+4 - Man
+5 - Morning
+6 - Night
+7 - Thank you
+8 - Welcome
+9 - Women
