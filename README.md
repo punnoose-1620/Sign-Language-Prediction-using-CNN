@@ -46,12 +46,13 @@ The model is trained for 10 epochs with real-time data augmentation provided by 
 
 The model achieved the following metrics on the validation set:
 
-Epoch	Loss	Accuracy
-1	0.68	90.30%
-2	0.12	96.00%
-3	0.10	96.33%
-...	...	...
-10	0.08	96.33%
+| Epoch |	Loss |	Accuracy |
+|:-----:|:----:|:---------:|
+|   1   |	0.68 |	90.30%   |
+|   2   |	0.12 |	96.00%   |
+|   3   |	0.10 |	96.33%   |
+|.......|......|...........|
+|   10  |	0.08 |	96.33%   |
 
 Final evaluation on a separate test set yielded:
 
@@ -63,8 +64,8 @@ Accuracy: 80%
 Clone the repository:
 
   ```bash
-  git clone <repository-url>
-  cd <repository-name>
+  git clone "git@github.com:punnoose-1620/Sign-Language-Prediction-using-CNN.git"
+  cd Sign-Language-Prediction-using-CNN
 ```
 
 Install dependencies:
