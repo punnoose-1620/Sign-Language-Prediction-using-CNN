@@ -1,5 +1,7 @@
 # Sign Language Prediction using CNN
 
+![Generated Display Image](./sign_language_prediction_bg.webp)
+
 This project implements an image classification model using a Convolutional Neural Network (CNN) in TensorFlow/Keras. The model is designed to predict categorical labels from images processed via the ImageDataGenerator utility in Keras.
 
 1. Contents
